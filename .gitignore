@@ -6,4 +6,3 @@ node_modules
 dist
 package-lock.json
 npm-debug*
-docs
